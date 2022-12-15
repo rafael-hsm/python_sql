@@ -1,0 +1,4 @@
+Olá, Mundo.
+Rafael Meireles
+Desenvolvedor Python.
+C:\Users\rafam\Projects\python_sql\python_intermediário\arquivo_teste.txt
