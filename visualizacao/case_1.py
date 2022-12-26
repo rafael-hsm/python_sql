@@ -19,6 +19,7 @@ for i in range(len(dados)):
         y.append(int(line[1]))
 
 d = dict(zip(x, y))        
+
 for i, v in d.items():
     if v > 150000000:
         print(i)
